@@ -43,7 +43,7 @@ After testing the original utility and identifying 1785 as an optimal MAX value 
 
 ## Quick Usage (Prebuilt Binary)
 
-1. Download `overwrite_trigger_cal` from the [Releases](https://github.com/YOUR_FORK/releases).
+1. Download `overwrite_trigger_cal` from the [Releases](https://github.com/alexandrefortes/steam_deck_overwrite_trigger_auto_set_1785/releases/tag/v1).
 2. Move it to your home folder and make it executable:
 
    ```bash
@@ -129,7 +129,7 @@ docker run --rm -it `
 
 ### After Resume from Sleep
 
-Currently, this fork does not automatically run after waking from suspend. If you discover a working solution, please [open an issue](https://github.com/YOUR_FORK/issues) or submit a pull request – I’d love to learn how you did it :)
+Currently, this fork does not automatically run after waking from suspend. If you discover a working solution, please [open an issue](https://github.com/alexandrefortes/steam_deck_overwrite_trigger_auto_set_1785/issues) or submit a pull request – I’d love to learn how you did it :)
 
 ---
 
