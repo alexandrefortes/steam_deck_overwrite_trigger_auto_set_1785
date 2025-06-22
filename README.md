@@ -11,9 +11,9 @@ If you haven't already, take a look at the original project this fork builds upo
 Automatically set both trigger **MAX** values on startup. No prompts, no manual input.
 
 
-Ideal for users who found their Steam Decks ideal values (mine is 1785) using the kasvtv original project ([kasvtv/steam\_deck\_overwrite\_trigger\_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal)) method.
+Ideal for users who found their Steam Decks ideal values (mine is 1785) using the kasvtv original project method.
 
-I strongly advise using the original project first to determine your ideal trigger calibration values: [kasvtv/steam\_deck\_overwrite\_trigger\_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal)
+I **strongly advise** using the original project first to determine your ideal trigger calibration values: [kasvtv/steam\_deck\_overwrite\_trigger\_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal)
 
 ---
 
