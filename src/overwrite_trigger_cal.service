@@ -1,0 +1,11 @@
+[Unit]
+Description=Steam Deck Trigger Calibration Overwrite
+After=graphical.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/deck/overwrite_trigger_cal
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target
