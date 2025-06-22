@@ -5,10 +5,7 @@
 This fork wouldn't exist without the original work by [kasvtv](https://github.com/kasvtv).  
 Huge thanks for creating such a practical and well-documented tool for the Steam Deck community.
 
-If you haven't yet, check out the original repository:  
-👉 [kasvtv/steam_deck_overwrite_trigger_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal)
-
-Fork based on [kasvtv/steam\_deck\_overwrite\_trigger\_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal).
+If you haven't already, take a look at the original project this fork builds upon: [kasvtv/steam\_deck\_overwrite\_trigger\_cal](https://github.com/kasvtv/steam_deck_overwrite_trigger_cal).
 
 **Fork goal**
 Automatically set both trigger **MAX** values on startup. No prompts, no manual input.
