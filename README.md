@@ -1,4 +1,4 @@
-# Steam Deck Trigger Calibration Overwrite – Fixed-Value Fork
+# Steam Deck Trigger Calibration Overwrite - Fixed-Value Fork
 
 ## Acknowledgements
 
